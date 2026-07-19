@@ -7,7 +7,7 @@ Project Description
 3. The objective is to simulate how financial institutions and payment companies use rule-based analytics to flag high-risk transactions for further investigation.
 
 Screenshot
-! [Velocity Spike] 
+![Velocity Spike] 
 IMG-20260719-WA0002.jpg
 
 Fraud Patterns Detected
